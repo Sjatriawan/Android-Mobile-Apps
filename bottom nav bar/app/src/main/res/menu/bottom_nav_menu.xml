@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/clikhome"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/clikfavorite"
+        android:title="@string/title_favorit" />
+
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/clikadd"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/clikpesan"
+        android:title="@string/title_message" />
+
+
+
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/clikuser"
+        android:title="@string/title_user" />
+
+
+</menu>
